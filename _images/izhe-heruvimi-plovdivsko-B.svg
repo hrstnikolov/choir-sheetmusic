@@ -351,7 +351,7 @@ c0 -39 -17 -77 -52 -77c-24 0 -44 19 -44 43c0 30 38 25 38 55c0 10 -10 11 -22 11h-
 <g transform="translate(58.8175, 26.4899)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:139:5:6">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:139:8:9">
 <g transform="translate(81.1655, 25.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
@@ -369,7 +369,7 @@ c0 -39 -17 -77 -52 -77c-24 0 -44 19 -44 43c0 30 38 25 38 55c0 10 -10 11 -22 11h-
 <g transform="translate(81.2955, 28.9499)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:139:7:8">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:139:10:11">
 <g transform="translate(84.3982, 27.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
@@ -384,7 +384,7 @@ c0 -39 -17 -77 -52 -77c-24 0 -44 19 -44 43c0 30 38 25 38 55c0 10 -10 11 -22 11h-
 <g transform="translate(85.6374, 26.4899)">
 <rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:139:13:14">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:139:16:17">
 <g transform="translate(89.5593, 26.9899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
@@ -433,6 +433,13 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:139:2:3">
 <g transform="translate(72.6553, 25.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:139:4:5">
+<g transform="translate(72.5733, 23.2559)">
+<path transform="scale(0.0040, -0.0040)" d="M233 243c-56 0 -102 -107 -102 -173c0 -22 8 -38 30 -38c64 0 97 126 97 178c0 18 -7 33 -25 33zM112 -146c-38 0 -78 5 -116 5c-39 0 -78 -5 -115 -5c-9 0 -14 7 -14 14c0 18 31 15 48 16c22 1 47 5 54 25l102 300c2 7 4 14 4 20c0 8 -2 14 -11 14
+c-33 0 -63 -60 -79 -97c-5 -12 -15 -17 -24 -17c-8 0 -14 4 -14 12c0 2 1 5 2 8c30 68 72 143 132 143c35 0 59 -21 66 -52c29 31 67 52 103 52c69 0 107 -49 107 -114c0 -21 -4 -44 -12 -67c-20 -58 -91 -119 -147 -119c-27 0 -52 5 -73 17c-4 2 -7 3 -11 3
+c-7 0 -14 -3 -16 -9l-29 -86c-1 -2 -1 -5 -1 -7c0 -20 21 -26 44 -28c9 -1 13 -8 13 -14c0 -7 -4 -14 -13 -14z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:64:2:3">
@@ -612,6 +619,9 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 </text>
 </g>
 </a>
+<g transform="translate(49.7029, 26.4899)">
+<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:138:2:3">
 <g transform="translate(53.8573, 25.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
@@ -626,9 +636,6 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 </a>
 <g transform="translate(53.9223, 26.4899)">
 <rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(49.7029, 26.4899)">
-<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:138:6:7">
 <g transform="translate(60.1807, 26.9899)">
@@ -645,19 +652,12 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <g transform="translate(61.4199, 26.4899)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:137:12:13">
-<g transform="translate(40.0698, 25.4899)">
+<g transform="translate(40.1998, 28.9499)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:137:17:18">
+<g transform="translate(43.3025, 27.9899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(44.5417, 26.4899)">
-<rect x="-0.0650" y="-2.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:63:9:10">
-<g transform="translate(39.1514, 31.9899)">
-<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>но</tspan>
-</text>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:63:12:13">
@@ -667,14 +667,21 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 </text>
 </g>
 </a>
-<g transform="translate(40.1998, 28.9499)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
-</g>
 <g transform="translate(40.1348, 26.4899)">
 <rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:137:17:18">
-<g transform="translate(43.3025, 27.9899)">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:63:9:10">
+<g transform="translate(39.1514, 31.9899)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>но</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(44.5417, 26.4899)">
+<rect x="-0.0650" y="-2.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:137:12:13">
+<g transform="translate(40.0698, 25.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
@@ -711,13 +718,6 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <g transform="translate(94.7615, 38.4899)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:67:2:3">
-<g transform="translate(96.1082, 44.1192)">
-<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>и</tspan>
-</text>
-</g>
-</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:144:2:3">
 <g transform="translate(88.9680, 38.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M-23 -116c0 28 11 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25c0 34 50 66 87 99c25 22 37 52 37 83c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -34 -50 -66 -87 -99
@@ -727,6 +727,13 @@ c-25 -22 -37 -52 -37 -83c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -
 <g transform="translate(65.9682, 37.9899)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:67:2:3">
+<g transform="translate(96.1082, 44.1192)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>и</tspan>
+</text>
+</g>
+</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:144:5:6">
 <g transform="translate(96.3097, 40.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
@@ -815,11 +822,11 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <rect x="0.0000" y="-0.5500" width="0.4301" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(98.0639, 39.9899)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
-</g>
 <g transform="translate(97.5489, 38.4899)">
 <rect x="-0.0650" y="-1.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(98.0639, 39.9899)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:144:12:13">
 <g transform="translate(103.8741, 39.9899)">
@@ -854,10 +861,14 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <g transform="translate(108.9025, 38.4899)">
 <rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(35.3763, 38.4899)">
-<rect x="-0.0650" y="0.1861" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:66:2:3">
+<g transform="translate(33.7270, 44.1192)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>тай</tspan>
+</text>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:141:6:7">
+</a>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:141:10:11">
 <g transform="translate(26.6686, 38.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 24 -21 41 -42 41c-4 0 -8 0 -12 -1c-31 -9 -78 -40 -115 -64s-84 -53 -104 -78c-7 -8 -10 -18 -10 -28c0 -24 21 -41 42 -41c4 0 8 0 12 1c31 9 77 40 114 64s84 53 104 78c7 8 11 18 11 28zM262 136c46 0 82 -21 82 -71c0 -19 -4 -39 -10 -57
 c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39 11 57c12 37 31 72 63 94c53 36 114 50 188 50z" fill="currentColor"/>
@@ -878,13 +889,9 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:66:2:3">
-<g transform="translate(33.7270, 44.1192)">
-<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>тай</tspan>
-</text>
+<g transform="translate(35.3763, 38.4899)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:142:7:8">
 <g transform="translate(39.2182, 38.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
@@ -928,6 +935,19 @@ c-13 0 -23 11 -23 25z" fill="currentColor"/>
 c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39 11 57c12 37 31 72 63 94c53 36 114 50 188 50z" fill="currentColor"/>
 </g>
 </a>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:141:5:6">
+<g transform="translate(13.5511, 35.2559)">
+<g>
+<path transform="scale(0.0040, -0.0040)" d="M233 243c-56 0 -102 -107 -102 -173c0 -22 8 -38 30 -38c64 0 97 126 97 178c0 18 -7 33 -25 33zM112 -146c-38 0 -78 5 -116 5c-39 0 -78 -5 -115 -5c-9 0 -14 7 -14 14c0 18 31 15 48 16c22 1 47 5 54 25l102 300c2 7 4 14 4 20c0 8 -2 14 -11 14
+c-33 0 -63 -60 -79 -97c-5 -12 -15 -17 -24 -17c-8 0 -14 4 -14 12c0 2 1 5 2 8c30 68 72 143 132 143c35 0 59 -21 66 -52c29 31 67 52 103 52c69 0 107 -49 107 -114c0 -21 -4 -44 -12 -67c-20 -58 -91 -119 -147 -119c-27 0 -52 5 -73 17c-4 2 -7 3 -11 3
+c-7 0 -14 -3 -16 -9l-29 -86c-1 -2 -1 -5 -1 -7c0 -20 21 -26 44 -28c9 -1 13 -8 13 -14c0 -7 -4 -14 -13 -14z" fill="currentColor"/>
+
+<path transform="translate(1.4682, 0.0000) scale(0.0040, -0.0040)" d="M233 243c-56 0 -102 -107 -102 -173c0 -22 8 -38 30 -38c64 0 97 126 97 178c0 18 -7 33 -25 33zM112 -146c-38 0 -78 5 -116 5c-39 0 -78 -5 -115 -5c-9 0 -14 7 -14 14c0 18 31 15 48 16c22 1 47 5 54 25l102 300c2 7 4 14 4 20c0 8 -2 14 -11 14
+c-33 0 -63 -60 -79 -97c-5 -12 -15 -17 -24 -17c-8 0 -14 4 -14 12c0 2 1 5 2 8c30 68 72 143 132 143c35 0 59 -21 66 -52c29 31 67 52 103 52c69 0 107 -49 107 -114c0 -21 -4 -44 -12 -67c-20 -58 -91 -119 -147 -119c-27 0 -52 5 -73 17c-4 2 -7 3 -11 3
+c-7 0 -14 -3 -16 -9l-29 -86c-1 -2 -1 -5 -1 -7c0 -20 21 -26 44 -28c9 -1 13 -8 13 -14c0 -7 -4 -14 -13 -14z" fill="currentColor"/>
+</g>
+</g>
+</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:65:2:3">
 <g transform="translate(12.7829, 44.1192)">
 <text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
@@ -938,11 +958,6 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <g transform="translate(14.3956, 38.4899)">
 <rect x="-0.0650" y="0.2590" width="0.1300" height="3.0743" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:142:20:21">
-<g transform="translate(58.0662, 38.4899)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
-</g>
-</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:142:14:15">
 <g transform="translate(51.9002, 38.9899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
@@ -963,9 +978,6 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 </text>
 </g>
 </a>
-<g transform="translate(48.2575, 38.4899)">
-<rect x="-0.0650" y="0.1861" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
-</g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:66:24:25">
 <g transform="translate(51.9002, 44.1192)">
 <text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
@@ -973,11 +985,17 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 </text>
 </g>
 </a>
+<g transform="translate(48.2575, 38.4899)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
+</g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:142:10:11">
 <g transform="translate(44.4665, 38.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
+<g transform="translate(58.1312, 38.4899)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:66:12:13">
 <g transform="translate(44.4016, 44.1192)">
 <text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
@@ -988,9 +1006,11 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <g transform="translate(44.5315, 38.4899)">
 <rect x="-0.0650" y="0.1861" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(58.1312, 38.4899)">
-<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:142:20:21">
+<g transform="translate(58.0662, 38.4899)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
+</a>
 <g transform="translate(5.6906, 52.4899)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
 </g>
@@ -1278,35 +1298,26 @@ c202 118 412 265 412 493c0 120 -63 235 -171 235c-74 0 -129 -54 -154 -126c11 5 22
 <g transform="translate(5.6906, 60.4899)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
 </g>
-<g transform="translate(42.6202, 62.4899)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
-</g>
 <g transform="translate(18.8188, 62.4899)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(60.7304, 62.4899)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(82.8754, 62.4899)">
+<g transform="translate(42.6202, 62.4899)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
 <g transform="translate(100.0170, 62.4899)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:151:13:14">
-<g transform="translate(74.0394, 62.9899)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+<g transform="translate(82.8754, 62.4899)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:70:22:23">
-<g transform="translate(73.6331, 68.0866)">
-<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>ю</tspan>
-</text>
+<g transform="translate(60.7304, 62.4899)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(75.2786, 62.4899)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(89.4677, 62.4899)">
+<rect x="-0.0650" y="-1.2410" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:152:2:3">
 <g transform="translate(79.2777, 62.4899)">
@@ -1324,6 +1335,27 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <g transform="translate(79.3427, 62.4899)">
 <rect x="-0.0650" y="0.2590" width="0.1300" height="3.0743" ry="0.0400" fill="currentColor"/>
 </g>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:152:6:7">
+<g transform="translate(89.4027, 60.9899)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 24 -21 41 -42 41c-4 0 -8 0 -12 -1c-31 -9 -78 -40 -115 -64s-84 -53 -104 -78c-7 -8 -10 -18 -10 -28c0 -24 21 -41 42 -41c4 0 8 0 12 1c31 9 77 40 114 64s84 53 104 78c7 8 11 18 11 28zM262 136c46 0 82 -21 82 -71c0 -19 -4 -39 -10 -57
+c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39 11 57c12 37 31 72 63 94c53 36 114 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:70:30:31">
+<g transform="translate(87.9574, 68.0866)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>сен</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(65.3597, 62.4899)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:151:9:10">
+<g transform="translate(65.2947, 61.4899)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</g>
+</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:70:9:10">
 <g transform="translate(63.9153, 68.0866)">
 <text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
@@ -1331,23 +1363,17 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:70:38:39">
-<g transform="translate(101.7722, 68.0866)">
-<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:70:22:23">
+<g transform="translate(73.6331, 68.0866)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ю</tspan>
+</text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:151:5:6">
-<g transform="translate(65.2947, 61.4899)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(65.3597, 62.4899)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
-</g>
 <g transform="translate(65.4247, 64.9499)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:151:7:8">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:151:11:12">
 <g transform="translate(68.8090, 63.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
@@ -1362,9 +1388,14 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <g transform="translate(70.0482, 62.4899)">
 <rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:69:19:20">
-<g transform="translate(29.9969, 68.0866)">
-<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:151:17:18">
+<g transform="translate(74.0394, 62.9899)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:150:6:7">
+<g transform="translate(37.5908, 62.4899)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.7571 -2.1950C2.4240 -3.0473 6.2187 -2.0873 7.2798 -0.5450L7.2798 -0.5450C6.1893 -1.9710 2.3946 -2.9309 0.7571 -2.1950z"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:69:6:7">
@@ -1372,9 +1403,9 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:150:6:7">
-<g transform="translate(37.5908, 62.4899)">
-<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.7571 -2.1950C2.4240 -3.0473 6.2187 -2.0873 7.2798 -0.5450L7.2798 -0.5450C6.1893 -1.9710 2.3946 -2.9309 0.7571 -2.1950z"/>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:69:19:20">
+<g transform="translate(29.9969, 68.0866)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:69:27:28">
@@ -1397,20 +1428,28 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:70:30:31">
-<g transform="translate(87.9574, 68.0866)">
-<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>сен</tspan>
-</text>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:70:38:39">
+<g transform="translate(101.7722, 68.0866)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(89.4677, 62.4899)">
-<rect x="-0.0650" y="-1.2410" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
-</g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:153:2:3">
 <g transform="translate(96.4194, 62.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 24 -21 41 -42 41c-4 0 -8 0 -12 -1c-31 -9 -78 -40 -115 -64s-84 -53 -104 -78c-7 -8 -10 -18 -10 -28c0 -24 21 -41 42 -41c4 0 8 0 12 1c31 9 77 40 114 64s84 53 104 78c7 8 11 18 11 28zM262 136c46 0 82 -21 82 -71c0 -19 -4 -39 -10 -57
 c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39 11 57c12 37 31 72 63 94c53 36 114 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:153:4:5">
+<g transform="translate(95.6399, 59.2559)">
+<g>
+<path transform="scale(0.0040, -0.0040)" d="M233 243c-56 0 -102 -107 -102 -173c0 -22 8 -38 30 -38c64 0 97 126 97 178c0 18 -7 33 -25 33zM112 -146c-38 0 -78 5 -116 5c-39 0 -78 -5 -115 -5c-9 0 -14 7 -14 14c0 18 31 15 48 16c22 1 47 5 54 25l102 300c2 7 4 14 4 20c0 8 -2 14 -11 14
+c-33 0 -63 -60 -79 -97c-5 -12 -15 -17 -24 -17c-8 0 -14 4 -14 12c0 2 1 5 2 8c30 68 72 143 132 143c35 0 59 -21 66 -52c29 31 67 52 103 52c69 0 107 -49 107 -114c0 -21 -4 -44 -12 -67c-20 -58 -91 -119 -147 -119c-27 0 -52 5 -73 17c-4 2 -7 3 -11 3
+c-7 0 -14 -3 -16 -9l-29 -86c-1 -2 -1 -5 -1 -7c0 -20 21 -26 44 -28c9 -1 13 -8 13 -14c0 -7 -4 -14 -13 -14z" fill="currentColor"/>
+
+<path transform="translate(1.4682, 0.0000) scale(0.0040, -0.0040)" d="M233 243c-56 0 -102 -107 -102 -173c0 -22 8 -38 30 -38c64 0 97 126 97 178c0 18 -7 33 -25 33zM112 -146c-38 0 -78 5 -116 5c-39 0 -78 -5 -115 -5c-9 0 -14 7 -14 14c0 18 31 15 48 16c22 1 47 5 54 25l102 300c2 7 4 14 4 20c0 8 -2 14 -11 14
+c-33 0 -63 -60 -79 -97c-5 -12 -15 -17 -24 -17c-8 0 -14 4 -14 12c0 2 1 5 2 8c30 68 72 143 132 143c35 0 59 -21 66 -52c29 31 67 52 103 52c69 0 107 -49 107 -114c0 -21 -4 -44 -12 -67c-20 -58 -91 -119 -147 -119c-27 0 -52 5 -73 17c-4 2 -7 3 -11 3
+c-7 0 -14 -3 -16 -9l-29 -86c-1 -2 -1 -5 -1 -7c0 -20 21 -26 44 -28c9 -1 13 -8 13 -14c0 -7 -4 -14 -13 -14z" fill="currentColor"/>
+</g>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:70:34:35">
@@ -1423,13 +1462,7 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <g transform="translate(96.4844, 62.4899)">
 <rect x="-0.0650" y="0.2590" width="0.1300" height="3.0743" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:152:6:7">
-<g transform="translate(89.4027, 60.9899)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 24 -21 41 -42 41c-4 0 -8 0 -12 -1c-31 -9 -78 -40 -115 -64s-84 -53 -104 -78c-7 -8 -10 -18 -10 -28c0 -24 21 -41 42 -41c4 0 8 0 12 1c31 9 77 40 114 64s84 53 104 78c7 8 11 18 11 28zM262 136c46 0 82 -21 82 -71c0 -19 -4 -39 -10 -57
-c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39 11 57c12 37 31 72 63 94c53 36 114 50 188 50z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:153:5:6">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:153:9:10">
 <g transform="translate(106.5444, 62.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 24 -21 41 -42 41c-4 0 -8 0 -12 -1c-31 -9 -78 -40 -115 -64s-84 -53 -104 -78c-7 -8 -10 -18 -10 -28c0 -24 21 -41 42 -41c4 0 8 0 12 1c31 9 77 40 114 64s84 53 104 78c7 8 11 18 11 28zM262 136c46 0 82 -21 82 -71c0 -19 -4 -39 -10 -57
 c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39 11 57c12 37 31 72 63 94c53 36 114 50 188 50z" fill="currentColor"/>
@@ -1445,10 +1478,7 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <g transform="translate(106.6094, 62.4899)">
 <rect x="-0.0650" y="0.2590" width="0.1300" height="3.0743" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(23.5131, 64.9499)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:149:9:10">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:149:12:13">
 <g transform="translate(23.3831, 61.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
@@ -1463,7 +1493,10 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <g transform="translate(23.4481, 62.4899)">
 <rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:149:14:15">
+<g transform="translate(23.5131, 64.9499)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:149:17:18">
 <g transform="translate(26.8974, 63.9899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
@@ -1478,10 +1511,7 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <g transform="translate(28.1366, 62.4899)">
 <rect x="-0.0650" y="-2.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(56.7092, 62.4899)">
-<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:149:19:20">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:149:22:23">
 <g transform="translate(32.1278, 63.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
@@ -1508,6 +1538,12 @@ c-13 0 -23 11 -23 25z" fill="currentColor"/>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:149:2:3">
 <g transform="translate(14.3306, 63.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:149:8:9">
+<g transform="translate(14.3510, 59.1479)">
+<path transform="scale(0.0040, -0.0040)" d="M253 245l-50 -163c-30 -99 -121 -255 -218 -255c-45 0 -87 27 -87 69c0 39 17 77 52 77c24 0 44 -20 44 -44c0 -30 -38 -24 -38 -54c0 -10 11 -11 23 -11h6c48 0 61 58 73 108l68 273h-49c-11 0 -19 8 -19 19s8 19 19 19h60c32 96 118 191 213 191c45 0 87 -27 87 -69
+c0 -39 -17 -77 -52 -77c-24 0 -44 19 -44 43c0 30 38 25 38 55c0 10 -10 11 -22 11h-7c-62 0 -70 -88 -86 -154h55c11 0 19 -8 19 -19s-8 -19 -19 -19h-66z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:69:2:3">
@@ -1547,6 +1583,18 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:151:4:5">
+<g transform="translate(55.8452, 59.1479)">
+<g>
+<path transform="scale(0.0040, -0.0040)" d="M-41 146c26 76 82 153 149 153c22 0 36 -20 41 -45c22 26 51 45 81 45c23 0 38 -21 44 -46c22 27 51 46 80 46c33 0 59 -35 59 -69c0 -5 -1 -10 -2 -15l-35 -149c0 -2 -1 -4 -1 -5c0 -5 2 -8 7 -8c9 0 27 11 48 31c4 4 9 6 13 6c6 0 11 -4 11 -10c0 -4 -3 -8 -7 -12
+c-40 -38 -85 -75 -131 -75c-20 0 -32 13 -32 32c0 4 0 7 1 11l39 165c1 5 2 9 2 14c0 10 -4 18 -14 18c-16 0 -33 -16 -39 -32l-53 -183c-3 -10 -12 -18 -22 -18h-41c-10 0 -16 8 -13 18l52 183c2 6 3 11 3 16c0 9 -4 16 -13 16c-16 0 -35 -16 -41 -33l-62 -182
+c-3 -10 -14 -18 -24 -18h-41c-10 0 -15 8 -12 18l63 183c2 5 2 10 2 15c0 10 -3 17 -13 17c-29 0 -54 -53 -66 -87c-4 -11 -15 -17 -23 -17c-7 0 -12 4 -12 11c0 2 1 4 2 6z" fill="currentColor"/>
+
+<path transform="translate(1.6389, 0.0000) scale(0.0040, -0.0040)" d="M253 245l-50 -163c-30 -99 -121 -255 -218 -255c-45 0 -87 27 -87 69c0 39 17 77 52 77c24 0 44 -20 44 -44c0 -30 -38 -24 -38 -54c0 -10 11 -11 23 -11h6c48 0 61 58 73 108l68 273h-49c-11 0 -19 8 -19 19s8 19 19 19h60c32 96 118 191 213 191c45 0 87 -27 87 -69
+c0 -39 -17 -77 -52 -77c-24 0 -44 19 -44 43c0 30 38 25 38 55c0 10 -10 11 -22 11h-7c-62 0 -70 -88 -86 -154h55c11 0 19 -8 19 -19s-8 -19 -19 -19h-66z" fill="currentColor"/>
+</g>
+</g>
+</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:70:2:3">
 <g transform="translate(55.0087, 68.0866)">
 <text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
@@ -1557,22 +1605,25 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <g transform="translate(58.3984, 60.9899)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
-<g transform="translate(37.6558, 62.4899)">
+<g transform="translate(56.7092, 62.4899)">
 <rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
 <g transform="translate(33.3670, 62.4899)">
 <rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:150:2:3">
-<g transform="translate(37.5908, 61.4899)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
-</g>
-</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:69:24:25">
 <g transform="translate(37.5908, 68.0866)">
 <text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>пе</tspan>
 </text>
+</g>
+</a>
+<g transform="translate(37.6558, 62.4899)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:150:2:3">
+<g transform="translate(37.5908, 61.4899)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:150:8:9">
@@ -1950,11 +2001,14 @@ c-13 0 -23 11 -23 25z" fill="currentColor"/>
 <g transform="translate(18.2505, 86.4899)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
+<g transform="translate(101.5597, 86.4899)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
 <g transform="translate(59.5520, 86.4899)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(101.5597, 86.4899)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(87.2995, 86.4899)">
+<rect x="-0.0650" y="-2.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:74:14:15">
 <g transform="translate(83.7932, 91.9899)">
@@ -1963,7 +2017,7 @@ c-13 0 -23 11 -23 25z" fill="currentColor"/>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:161:13:14">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:161:16:17">
 <g transform="translate(86.0603, 87.9899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
@@ -1981,15 +2035,12 @@ c-13 0 -23 11 -23 25z" fill="currentColor"/>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:161:8:9">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:161:11:12">
 <g transform="translate(80.9242, 85.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(87.2995, 86.4899)">
-<rect x="-0.0650" y="-2.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:161:18:19">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:161:21:22">
 <g transform="translate(90.9660, 87.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
@@ -2004,7 +2055,7 @@ c-13 0 -23 11 -23 25z" fill="currentColor"/>
 <g transform="translate(92.2052, 86.4899)">
 <rect x="-0.0650" y="-2.2021" width="0.1300" height="3.0160" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:161:23:24">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:161:26:27">
 <g transform="translate(94.1535, 86.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
@@ -2018,9 +2069,6 @@ c-13 0 -23 11 -23 25z" fill="currentColor"/>
 </a>
 <g transform="translate(95.3928, 86.4899)">
 <rect x="-0.0650" y="-2.7979" width="0.1300" height="2.6117" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(67.9919, 86.4899)">
-<rect x="-0.0650" y="-1.5000" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:74:39:40">
 <g transform="translate(105.8804, 91.9899)">
@@ -2055,9 +2103,18 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 </text>
 </g>
 </a>
+<g transform="translate(67.9919, 86.4899)">
+<rect x="-0.0650" y="-1.5000" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
+</g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:161:2:3">
 <g transform="translate(73.2068, 87.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:161:7:8">
+<g transform="translate(73.2273, 83.1479)">
+<path transform="scale(0.0040, -0.0040)" d="M253 245l-50 -163c-30 -99 -121 -255 -218 -255c-45 0 -87 27 -87 69c0 39 17 77 52 77c24 0 44 -20 44 -44c0 -30 -38 -24 -38 -54c0 -10 11 -11 23 -11h6c48 0 61 58 73 108l68 273h-49c-11 0 -19 8 -19 19s8 19 19 19h60c32 96 118 191 213 191c45 0 87 -27 87 -69
+c0 -39 -17 -77 -52 -77c-24 0 -44 19 -44 43c0 30 38 25 38 55c0 10 -10 11 -22 11h-7c-62 0 -70 -88 -86 -154h55c11 0 19 -8 19 -19s-8 -19 -19 -19h-66z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:74:2:3">
@@ -2073,6 +2130,11 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <g transform="translate(74.4460, 86.4899)">
 <rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:73:29:30">
+<g transform="translate(52.1954, 91.9899)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:158:8:9">
 <g transform="translate(14.3306, 86.4899)">
 <path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.6042 -0.1950C2.6167 -1.8091 6.5108 -2.9817 8.2462 -2.1950L8.2462 -2.1950C6.5454 -2.8668 2.6513 -1.6942 1.6042 -0.1950z"/>
@@ -2095,11 +2157,6 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:73:20:21">
 <g transform="translate(40.1921, 91.9899)">
-<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:73:29:30">
-<g transform="translate(52.1954, 91.9899)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
@@ -2178,13 +2235,9 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <g transform="translate(107.5987, 86.4899)">
 <rect x="-0.0650" y="-0.7410" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:73:15:16">
-<g transform="translate(29.2926, 91.9899)">
-<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>е</tspan>
-</text>
+<g transform="translate(29.3713, 86.4899)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
 </g>
-</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:158:10:11">
 <g transform="translate(22.0479, 85.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
@@ -2216,9 +2269,13 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(29.3713, 86.4899)">
-<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:73:15:16">
+<g transform="translate(29.2926, 91.9899)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>е</tspan>
+</text>
 </g>
+</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:159:2:3">
 <g transform="translate(34.1271, 84.9899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
@@ -2239,6 +2296,9 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
+<g transform="translate(39.8824, 86.4899)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
 <g transform="translate(6.4906, 85.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M557 -125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM557 125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM232 263c172 0 293 -88 293 -251c0 -263 -263 -414 -516 -521c-3 -3 -6 -4 -9 -4c-7 0 -13 6 -13 13c0 3 1 6 4 9
 c202 118 412 265 412 493c0 120 -63 235 -171 235c-74 0 -129 -54 -154 -126c11 5 22 8 34 8c55 0 100 -45 100 -100c0 -58 -44 -106 -100 -106c-60 0 -112 47 -112 106c0 133 102 244 232 244z" fill="currentColor"/>
@@ -2269,11 +2329,13 @@ c-13 0 -23 11 -23 25z" fill="currentColor"/>
 <g transform="translate(15.5698, 86.4899)">
 <rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(57.6884, 86.4899)">
-<rect x="-0.0650" y="-2.8140" width="0.1300" height="3.1279" ry="0.0400" fill="currentColor"/>
-</g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:159:16:17">
 <g transform="translate(48.9408, 86.9899)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:160:11:12">
+<g transform="translate(60.8045, 87.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
@@ -2286,9 +2348,6 @@ c-13 0 -23 11 -23 25z" fill="currentColor"/>
 </a>
 <g transform="translate(50.1800, 86.4899)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(39.8824, 86.4899)">
-<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:160:2:3">
 <g transform="translate(53.5117, 86.4899)">
@@ -2310,11 +2369,9 @@ c-13 0 -23 11 -23 25z" fill="currentColor"/>
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:160:11:12">
-<g transform="translate(60.8045, 87.4899)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+<g transform="translate(57.6884, 86.4899)">
+<rect x="-0.0650" y="-2.8140" width="0.1300" height="3.1279" ry="0.0400" fill="currentColor"/>
 </g>
-</a>
 <g transform="translate(62.0437, 86.4899)">
 <rect x="-0.0650" y="-1.9960" width="0.1300" height="2.8099" ry="0.0400" fill="currentColor"/>
 </g>
@@ -2360,12 +2417,6 @@ c-13 0 -23 11 -23 25z" fill="currentColor"/>
 <g transform="translate(93.5833, 98.4899)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:165:7:8">
-<g transform="translate(79.8413, 98.4899)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 24 -21 41 -42 41c-4 0 -8 0 -12 -1c-31 -9 -78 -40 -115 -64s-84 -53 -104 -78c-7 -8 -10 -18 -10 -28c0 -24 21 -41 42 -41c4 0 8 0 12 1c31 9 77 40 114 64s84 53 104 78c7 8 11 18 11 28zM262 136c46 0 82 -21 82 -71c0 -19 -4 -39 -10 -57
-c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39 11 57c12 37 31 72 63 94c53 36 114 50 188 50z" fill="currentColor"/>
-</g>
-</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:75:64:65">
 <g transform="translate(79.5569, 103.9899)">
 <text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
@@ -2430,6 +2481,12 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <g transform="translate(66.5294, 98.4899)">
 <rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
 </g>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:165:7:8">
+<g transform="translate(79.8413, 98.4899)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 24 -21 41 -42 41c-4 0 -8 0 -12 -1c-31 -9 -78 -40 -115 -64s-84 -53 -104 -78c-7 -8 -10 -18 -10 -28c0 -24 21 -41 42 -41c4 0 8 0 12 1c31 9 77 40 114 64s84 53 104 78c7 8 11 18 11 28zM262 136c46 0 82 -21 82 -71c0 -19 -4 -39 -10 -57
+c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39 11 57c12 37 31 72 63 94c53 36 114 50 188 50z" fill="currentColor"/>
+</g>
+</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:165:5:6">
 <g transform="translate(76.2991, 98.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
@@ -2501,13 +2558,9 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <rect x="0.0000" y="-0.5500" width="0.3805" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:76:18:19">
-<g transform="translate(105.8423, 103.9899)">
-<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>по</tspan>
-</text>
+<g transform="translate(106.7916, 98.4899)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:166:6:7">
 <g transform="translate(100.9282, 98.9899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
@@ -2528,9 +2581,13 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(106.7916, 98.4899)">
-<rect x="-0.0650" y="0.1861" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:76:18:19">
+<g transform="translate(105.8423, 103.9899)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>по</tspan>
+</text>
 </g>
+</a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:166:13:14">
 <g transform="translate(110.2688, 98.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
@@ -2546,12 +2603,12 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <g transform="translate(110.3338, 98.4899)">
 <rect x="-0.0650" y="0.1861" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:163:7:8">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:163:10:11">
 <g transform="translate(29.2300, 99.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:163:5:6">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:163:8:9">
 <g transform="translate(24.0939, 97.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
@@ -2579,7 +2636,7 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 <g transform="translate(30.4692, 98.4899)">
 <rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:163:13:14">
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:163:16:17">
 <g transform="translate(35.0102, 98.9899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
@@ -2591,9 +2648,6 @@ c-12 -37 -32 -72 -64 -94c-53 -36 -113 -50 -187 -50c-46 0 -83 21 -83 71c0 19 5 39
 </text>
 </g>
 </a>
-<g transform="translate(36.2494, 98.4899)">
-<rect x="-0.0650" y="-2.8100" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
-</g>
 <g transform="translate(62.2810, 98.4899)">
 <rect x="-0.0650" y="0.1861" width="0.1300" height="3.1889" ry="0.0400" fill="currentColor"/>
 </g>
@@ -2614,9 +2668,19 @@ c-13 0 -23 11 -23 25z" fill="currentColor"/>
 <path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
 c-13 0 -23 11 -23 25z" fill="currentColor"/>
 </g>
+<g transform="translate(36.2494, 98.4899)">
+<rect x="-0.0650" y="-2.8100" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
+</g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:163:2:3">
 <g transform="translate(14.3306, 97.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:163:4:5">
+<g transform="translate(14.2486, 95.2559)">
+<path transform="scale(0.0040, -0.0040)" d="M233 243c-56 0 -102 -107 -102 -173c0 -22 8 -38 30 -38c64 0 97 126 97 178c0 18 -7 33 -25 33zM112 -146c-38 0 -78 5 -116 5c-39 0 -78 -5 -115 -5c-9 0 -14 7 -14 14c0 18 31 15 48 16c22 1 47 5 54 25l102 300c2 7 4 14 4 20c0 8 -2 14 -11 14
+c-33 0 -63 -60 -79 -97c-5 -12 -15 -17 -24 -17c-8 0 -14 4 -14 12c0 2 1 5 2 8c30 68 72 143 132 143c35 0 59 -21 66 -52c29 31 67 52 103 52c69 0 107 -49 107 -114c0 -21 -4 -44 -12 -67c-20 -58 -91 -119 -147 -119c-27 0 -52 5 -73 17c-4 2 -7 3 -11 3
+c-7 0 -14 -3 -16 -9l-29 -86c-1 -2 -1 -5 -1 -7c0 -20 21 -26 44 -28c9 -1 13 -8 13 -14c0 -7 -4 -14 -13 -14z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:75:2:3">
@@ -2637,11 +2701,6 @@ c-13 0 -23 11 -23 25z" fill="currentColor"/>
 <text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ни</tspan>
 </text>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:163:17:18">
-<g transform="translate(38.5524, 98.9899)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
 <g transform="translate(49.4114, 98.4899)">
@@ -2682,6 +2741,21 @@ c-13 0 -23 11 -23 25z" fill="currentColor"/>
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
 </g>
 </a>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:163:20:21">
+<g transform="translate(38.5524, 98.9899)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:75:24:25">
+<g transform="translate(37.7193, 103.9899)">
+<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>пе</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(39.7916, 98.4899)">
+<rect x="-0.0650" y="-2.8100" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
+</g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:75:30:31">
 <g transform="translate(41.3139, 103.9899)">
 <text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
@@ -2692,19 +2766,9 @@ c-13 0 -23 11 -23 25z" fill="currentColor"/>
 <g transform="translate(42.1779, 98.4899)">
 <rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(39.7916, 98.4899)">
-<rect x="-0.0650" y="-2.8100" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
-</g>
 <a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:164:6:7">
 <g transform="translate(49.3464, 98.4899)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c55 0 108 -28 108 -89c0 -71 -55 -121 -102 -149c-35 -21 -75 -34 -116 -34c-55 0 -108 28 -108 89c0 71 55 121 102 149c35 21 75 34 116 34z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://C:/Users/hrstn/choir/./izhe-heruvimi-plovdivsko-melody.ly:75:24:25">
-<g transform="translate(37.7193, 103.9899)">
-<text font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>пе</tspan>
-</text>
 </g>
 </a>
 <g transform="translate(5.6906, 112.4899)">
